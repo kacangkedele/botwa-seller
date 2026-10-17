@@ -1081,9 +1081,9 @@ Lihat file [LICENSE](LICENSE) untuk detail lengkap.
 | Platform | Link |
 |----------|------|
 | 📱 WhatsApp | Sesuai `config.ownerNumber` |
-| 📧 Email | support@yourdomain.com |
+| 📧 Email | support@gmail.com |
 | 🐛 Issue Tracker | [GitHub Issues](https://github.com/USERNAME/wa-topup-bot/issues) |
-| 💬 Discussion | [GitHub Discussions](https://github.com/USERNAME/wa-topup-bot/discussions) |
+| 💬 Discussion | [GitHub Discussions](https://t.me/@PredikSpaceman) |
 
 ---
 
@@ -1093,7 +1093,7 @@ Jika proyek ini bermanfaat, berikan **⭐ Star** di GitHub!
 
 <div align="center">
 
-**Dibuat dengan ❤️ untuk komunitas Termux Indonesia**
+**Dibuat dengan ❤️ untuk komunitas Indonesia**
 
 [⬆ Kembali ke atas](#-wa-top-up-bot)
 
