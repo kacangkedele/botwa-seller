@@ -1,0 +1,38 @@
+{
+  "name": "wa-topup-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Top-Up otomatis (Free Fire, Growtopia, Kuota) berbasis Baileys. Berjalan di Termux.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "pm2:start": "pm2 start index.js --name wa-topup-bot",
+    "pm2:restart": "pm2 restart wa-topup-bot",
+    "pm2:stop": "pm2 stop wa-topup-bot",
+    "pm2:logs": "pm2 logs wa-topup-bot"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "topup",
+    "digiflazz",
+    "termux",
+    "freefire",
+    "growtopia"
+  ],
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "pino": "^9.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "crypto-js": "^4.2.0",
+    "axios": "^1.7.9",
+    "chalk": "^4.1.2",
+    "node-cache": "^4.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

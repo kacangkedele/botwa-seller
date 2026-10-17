@@ -1,0 +1,21 @@
+# Dependency directory
+node_modules/
+
+# Session files (jangan commit!)
+sessions/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup
+*.bak
+database/*.bak

@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": "freefire",
+      "name": "Free Fire",
+      "icon": "🎮",
+      "description": "Top-up Diamond Free Fire termurah dan tercepat. Proses otomatis 24 jam."
+    },
+    {
+      "id": "growtopia",
+      "name": "Growtopia",
+      "icon": "🌱",
+      "description": "Beli World Lock dan Gems Growtopia dengan harga terbaik."
+    },
+    {
+      "id": "kuota",
+      "name": "Paket Kuota",
+      "icon": "📶",
+      "description": "Paket internet semua operator: Tri, Telkomsel, XL, Indosat, Axis."
+    },
+    {
+      "id": "pln",
+      "name": "Token PLN",
+      "icon": "⚡",
+      "description": "Token listrik prabayar PLN langsung ke nomor meter Anda."
+    }
+  ],
+  "products": {
+    "freefire": [
+      { "sku": "FF5", "name": "5 Diamond Free Fire", "price": 1500, "modal": 1000, "category": "freefire" },
+      { "sku": "FF20", "name": "20 Diamond Free Fire", "price": 4500, "modal": 4000, "category": "freefire" },
+      { "sku": "FF50", "name": "50 Diamond Free Fire", "price": 10000, "modal": 9000, "category": "freefire" },
+      { "sku": "FF70", "name": "70 Diamond Free Fire", "price": 14000, "modal": 12500, "category": "freefire" },
+      { "sku": "FF140", "name": "140 Diamond Free Fire", "price": 27000, "modal": 24500, "category": "freefire" },
+      { "sku": "FF355", "name": "355 Diamond Free Fire", "price": 65000, "modal": 60000, "category": "freefire" },
+      { "sku": "FF720", "name": "720 Diamond Free Fire", "price": 130000, "modal": 120000, "category": "freefire" },
+      { "sku": "FF1450", "name": "1450 Diamond Free Fire", "price": 250000, "modal": 230000, "category": "freefire" },
+      { "sku": "FFMB", "name": "Membership Mingguan FF", "price": 35000, "modal": 30000, "category": "freefire" },
+      { "sku": "FFMBL", "name": "Membership Bulanan FF", "price": 110000, "modal": 100000, "category": "freefire" }
+    ],
+    "growtopia": [
+      { "sku": "GT10", "name": "10 World Lock Growtopia", "price": 12000, "modal": 10000, "category": "growtopia" },
+      { "sku": "GT25", "name": "25 World Lock Growtopia", "price": 28000, "modal": 25000, "category": "growtopia" },
+      { "sku": "GT50", "name": "50 World Lock Growtopia", "price": 55000, "modal": 50000, "category": "growtopia" },
+      { "sku": "GT100", "name": "100 World Lock Growtopia", "price": 105000, "modal": 95000, "category": "growtopia" }
+    ],
+    "kuota": [
+      { "sku": "TRI10GB1D", "name": "Tri 10GB 1 Hari", "price": 10000, "modal": 8500, "category": "kuota" },
+      { "sku": "TRI11GB14D", "name": "Tri 11GB 14 Hari", "price": 30000, "modal": 27000, "category": "kuota" },
+      { "sku": "TRI66GB28D", "name": "Tri 66GB 28 Hari + Vidio Platinum", "price": 100000, "modal": 92000, "category": "kuota" },
+      { "sku": "TSEL10GB30D", "name": "Telkomsel 10GB 30 Hari", "price": 45000, "modal": 41000, "category": "kuota" },
+      { "sku": "XL15GB30D", "name": "XL 15GB 30 Hari", "price": 50000, "modal": 46000, "category": "kuota" },
+      { "sku": "ISAT20GB30D", "name": "Indosat 20GB 30 Hari", "price": 48000, "modal": 44000, "category": "kuota" },
+      { "sku": "AXIS10GB30D", "name": "Axis 10GB 30 Hari", "price": 35000, "modal": 32000, "category": "kuota" }
+    ],
+    "pln": [
+      { "sku": "PLN20K", "name": "Token PLN 20.000", "price": 21000, "modal": 20000, "category": "pln" },
+      { "sku": "PLN50K", "name": "Token PLN 50.000", "price": 51000, "modal": 50000, "category": "pln" },
+      { "sku": "PLN100K", "name": "Token PLN 100.000", "price": 101000, "modal": 100000, "category": "pln" },
+      { "sku": "PLN200K", "name": "Token PLN 200.000", "price": 201000, "modal": 200000, "category": "pln" }
+    ]
+  },
+  "lastUpdated": null
+}
